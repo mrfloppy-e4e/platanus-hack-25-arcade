@@ -1,4 +1,4 @@
 {
-  "game_name": "<FILL THIS>",
-  "description": "<FILL THIS>"
+  "game_name": "ElectroMini",
+  "description": "Educational digital logic game designed for children! Learn about electronic circuits by connecting logic gates (AND, OR, NOT, NAND, NOR, XOR) to solve puzzles. Features 12 progressive levels, 3 attempts per level, scoring system with bonuses, and high score tracking. Perfect for arcade cabinets with joystick and button controls. Master boolean logic through interactive gameplay!"
 }
